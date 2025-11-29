@@ -57,7 +57,7 @@ While these are not shipped products, they reflect how I think through complex p
 
 ## 🔗 Related Product Work
 
-- **WhatsApp Product Improvements – PRDs**  
+ ** 📱 WhatsApp Product Improvements – PRDs**  
   🔗 https://github.com/isha-techpm/product-prds-whatsapp  
 
   A collection of PRDs focused on improving everyday WhatsApp usability and reducing chat clutter.
