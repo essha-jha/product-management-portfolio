@@ -56,14 +56,15 @@ While these are not shipped products, they reflect how I think through complex p
 ---
 
 ## 🔹 Resume
+My resume highlights:
 
-My resume outlines:
+- Hands-on experience across Product Management, software engineering, and QA, with a strong foundation in building and improving digital products  
+- Ownership of product features such as vendor verification workflows, admin dashboards, onboarding flows, and UX improvements across web and mobile  
+- Practical PM skills including requirement gathering, sprint planning, backlog prioritization, and cross-functional collaboration using Jira and ClickUp  
+- Strong technical and data background (SQL, Analytics, Azure, Power BI) to support data-informed product decisions and effective collaboration with engineering teams  
 
-* My professional journey across data, engineering, and product-adjacent roles
-* Increasing ownership of product responsibilities
-* Tools and skills that support strong collaboration with engineering and design teams
+👉 Available in the Resume/ folder.
 
-👉 Available in **Resume/** folder.
 
 ---
 
