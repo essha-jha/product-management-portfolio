@@ -10,13 +10,46 @@ My background spans data, engineering, QA, and freelance projects. I am continuo
 
 ## 📁 Repository Overview
 
-This portfolio is organized into three main sections:
+This portfolio is organized into four main sections:
 
-* **PRDs** – Product Requirement Documents based on real projects, freelance work, and structured assessments
 * **Case Studies** – End‑to‑end product thinking exercises, mainly focused on AI-driven systems
+* **Certificates** – Verified certifications supporting my PM, analytics, and business foundations
+* **PRDs** – Product Requirement Documents based on real projects, freelance work, and structured assessments
 * **Resume** – My current resume highlighting my transition into Product Management
 
 Each folder has its own README explaining the context and intent behind the work.
+
+---
+
+## 🔹 Case Studies
+
+The case studies focus on **AI and data-driven products**. They are structured exercises where I practiced:
+
+* Problem definition and opportunity sizing
+* Solution design and system thinking
+* Metrics, risks, and adoption planning
+* Business and user impact evaluation
+
+While these are not shipped products, they reflect how I think through complex products as a PM.
+
+👉 See **CaseStudies/README.md** for individual case study summaries.
+
+---
+
+## 🔹 Certificates
+
+This section contains certificates from structured courses and hands-on virtual programs that support my Product Management and analytics foundation.
+
+The certifications cover:
+
+* Product Management fundamentals
+* Power BI and data visualization
+* Business analytics and problem-solving
+* Virtual experience programs (PwC, Tata) based on real-world scenarios
+
+These certificates reflect continuous learning alongside practical PRDs and case studies.
+
+👉 Available in the Certificates/ folder.
 
 ---
 
@@ -37,21 +70,6 @@ These documents include:
 * An internal ERP workflow optimization feature
 
 👉 See **PRDs/README.md** for detailed breakdowns of each document.
-
----
-
-## 🔹 Case Studies
-
-The case studies focus on **AI and data-driven products**. They are structured exercises where I practiced:
-
-* Problem definition and opportunity sizing
-* Solution design and system thinking
-* Metrics, risks, and adoption planning
-* Business and user impact evaluation
-
-While these are not shipped products, they reflect how I think through complex products as a PM.
-
-👉 See **CaseStudies/README.md** for individual case study summaries.
 
 ---
 
