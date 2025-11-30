@@ -47,4 +47,4 @@ Though I’m early in my product management journey, I’m excited to bring curi
 
 ---
 
-📌 *This portfolio will continue to evolve as I gain more hands-on Product Management experience.*
+📌 *These Case Studies will continue to evolve as I gain more hands-on Product Management experience.*
