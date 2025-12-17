@@ -1,6 +1,6 @@
 # 📄 Resume
 
-This folder contains my latest resume, reflecting my transition into a **Product Manager / Associate Product Manager** role.
+This folder contains my latest resume, reflecting my transition into a **Associate Product Manager** role.
 
 My experience spans product management, software engineering, and quality assurance, which allows me to approach products with both a **user-first mindset and strong technical context**.
 
